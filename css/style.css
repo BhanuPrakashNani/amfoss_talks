@@ -48,8 +48,8 @@ h5 {
 
 p {
     color: #707070;
-    font-size: 22px;
-    line-height: 24px;
+    font-size: 25px;
+    line-height: 30px;
 }
 
 a {
@@ -264,7 +264,7 @@ footer {
     Intro section
 -----------------------------------------*/
 #intro {
-    background: url('../images/intro-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/man2.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -528,7 +528,7 @@ footer {
    Venue section
 -----------------------------------------*/
 #venue {
-    background: url('../images/venue-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/hall.jpeg') 50% 0 repeat-y fixed;
     background-size: fixed;
     background-position: center center;
     padding-top: 7rem;
