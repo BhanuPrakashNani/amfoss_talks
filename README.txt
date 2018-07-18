@@ -1,1 +1,0 @@
-Creating a platform to bridge the gap between enthusiast learners who wish to learn, explore in finding their interest and professionals who will to share knowledge, tips, and methods of learning from their experience.
